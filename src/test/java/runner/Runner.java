@@ -9,7 +9,7 @@ import org.junit.runner.RunWith;
         plugin={"json:target/cucumber.json","rerun:target/rerun.txt"},
         features = "src/test/resources/features",
         glue = "steps",
-        tags = "@MB2P-126",
+        tags = "@MB2P-214",
         dryRun = false
 
 )
